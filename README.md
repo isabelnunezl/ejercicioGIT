@@ -1,4 +1,4 @@
 # ejercicioGIT
 
-# marisabelnunezl@gmail.com
-# María Isabel Núñez Lomas
+marisabelnunezl@gmail.com
+María Isabel Núñez Lomas
